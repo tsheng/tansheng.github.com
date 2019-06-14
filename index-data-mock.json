@@ -1,0 +1,454 @@
+export default {
+  "footprint": "",
+  "iconList": [
+    {
+      "text": "本金保障",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612149471.png",
+      "link": "http://action:10090/?loginType=1&&longinKind=1&&type=5&&url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26topColor%3DFF8400%26%26type%3D101%26%26secondtype%3D99%26%26secondtext%3D%E7%AD%9B%E9%80%89%26%26secondjsfuncname%3DonSaleFilter()%26%26url%3D%2Flicai%2FhomepageV4%2Fprincipal-guarantee.htm",
+      "textColour": null
+    },
+    {
+      "text": "稳健收益",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612168660.png",
+      "link": "http://action:10061/?type=101&&fullscreen=1&&topcolor=FF8400&&url=/licai/homepageV3/steady-income.htm",
+      "textColour": null
+    },
+    {
+      "text": "公募基金",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612185975.png",
+      "link": "http://action:10061/?fullscreen=1&&topcolor=FF8400&&type=101&&url=/app/financing/channels/fund-zone/fund-zone.htm",
+      "textColour": null
+    },
+    {
+      "text": "高端理财",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612202191.png",
+      "link": "http://action:10090/?loginType=1&&loginKind=1&&type=5&&url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26shownavigationbar%3D0%26%26url%3D%2Flicai%2Ffinancing%2Fvip%2Findex.htm",
+      "textColour": null
+    },
+    {
+      "text": "我的关注",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612217965.png",
+      "link": "http://action:10092/?loginType=1&&longinKind=1&&type=5&&url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26type%3D101%26%26topColor%3DFF8400%26%26shownavigationbar%3D0%26%26url%3D%2Flicai%2Fdetail%2Ffinancing%2FmyForces.htm%26%26jsfuncname%3DGoBackOnLoad()",
+      "textColour": null
+    },
+    {
+      "text": "灵活收益",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181119/201811191542612232971.png",
+      "link": "http://action:10090/?loginType=1&&longinKind=1&&type=5&&url=http%3a%2f%2faction%3a10061%2f%3ffullscreen%3d1%26%26type%3d101%26%26topcolor%3dff8400%26%26url%3d%2flicai%2fhomepageV4%2fflexible-financing.htm",
+      "textColour": null
+    }
+  ],
+  "majordomo": [],
+  "code": "0",
+  "msg": "success",
+  "clientTag": "2",
+  "activityFlag": 2,
+  "dailyActivities": {
+    "title": "日常活动",
+    "subTitle": null,
+    "list": [
+      {
+        "activityId": 66,
+        "activityName": "首只东证指数ETF，资产配置新标的！",
+        "activityLinkUrl": "http://action:10090/?url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26type%3D9%26%26enforcecolor%3D1%26%26url%3D%2Ftrade%2Fother%2FETF%2Fbuy.htm%3FstockCode%3D513803",
+        "iconUrl": "http://d.zhangle.com/pic/cft/picture/20190604/201906041559614920946.png"
+      }
+    ]
+  },
+  "popFund": {
+    "title": "热门基金",
+    "subTitle": "涨乐严选，乐友最爱",
+    "list": [
+      {
+        "prdtId": "37474131",
+        "prdtCode": "006551",
+        "opTitle": "专业管理 价值投资",
+        "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+        "yieldLabel": 1,
+        "prdtName": "中庚价值领航混合",
+        "riskLevel": "中风险",
+        "subStart": 1000,
+        "opTag": "",
+        "yieldDesc": "今年以来涨跌",
+        "feeTag": "",
+        "yieldValue": "17.429%"
+      },
+      {
+        "prdtId": "15387",
+        "prdtCode": "519068",
+        "opTitle": null,
+        "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+        "yieldLabel": 7,
+        "prdtName": "汇添富成长焦点混合",
+        "riskLevel": "中风险",
+        "subStart": 0.1,
+        "opTag": "",
+        "yieldDesc": "成立以来涨跌",
+        "feeTag": "申购费1折起",
+        "yieldValue": "300.743%"
+      },
+      {
+        "prdtId": "37062186",
+        "prdtCode": "005827",
+        "opTitle": "追求长期稳健回报",
+        "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+        "yieldLabel": 7,
+        "prdtName": "易方达蓝筹精选混合",
+        "riskLevel": "中风险",
+        "subStart": 1,
+        "opTag": "",
+        "yieldDesc": "成立以来涨跌",
+        "feeTag": "申购费1折起",
+        "yieldValue": "19.87%"
+      },
+      {
+        "prdtId": "3684121",
+        "prdtCode": "000216",
+        "opTitle": "黄金配置型工具，分散投资风险",
+        "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+        "yieldLabel": 2,
+        "prdtName": "华安黄金易(ETF联接)A",
+        "riskLevel": "高风险",
+        "subStart": 1,
+        "opTag": "",
+        "yieldDesc": "近一月涨跌",
+        "feeTag": "申购费1折起",
+        "yieldValue": "4.810%"
+      }
+    ]
+  },
+  "fundTopic": {
+    "title": "基金主题",
+    "subTitle": "严选主题，掌握市场变化",
+    "list": [
+      {
+        "topicId": 45,
+        "topicName": "闲钱不闲，休市也可提现",
+        "yieldLabel": 8,
+        "yieldDesc": "最高七日年化收益率",
+        "yieldValue": "2.553%",
+        "comment": "1分起购，申赎免费，T+0到账"
+      },
+      {
+        "topicId": 43,
+        "topicName": "闲钱理财升级之选",
+        "yieldLabel": 7,
+        "yieldDesc": "成立以来最高涨跌",
+        "yieldValue": "10.6%",
+        "comment": "收获小确幸"
+      },
+      {
+        "topicId": 7,
+        "topicName": "经典老基 累计收益10倍+",
+        "yieldLabel": 7,
+        "yieldDesc": "成立以来最高涨跌",
+        "yieldValue": "2255.612%",
+        "comment": "历经多轮牛熊，见证长期的力量。"
+      },
+      {
+        "topicId": 24,
+        "topicName": "黄金“基”汇",
+        "yieldLabel": 2,
+        "yieldDesc": "近一月最高涨跌",
+        "yieldValue": "4.81%",
+        "comment": "基金也能投资黄金资产啦"
+      },
+      {
+        "topicId": 31,
+        "topicName": "债市投资  基金先行",
+        "yieldLabel": 7,
+        "yieldDesc": "成立以来最高涨跌",
+        "yieldValue": "50.842%",
+        "comment": "精选债券基金，把握债市布局时机"
+      },
+      {
+        "topicId": 42,
+        "topicName": "定投秘籍",
+        "yieldLabel": 7,
+        "yieldDesc": "成立以来最高涨跌",
+        "yieldValue": "1000.641%",
+        "comment": "傻傻的买 穿越牛熊"
+      }
+    ]
+  },
+  "staInc": {
+    "title": "稳健收益",
+    "subTitle": "华泰资管，风格稳健",
+    "list": [
+      {
+        "prdtId": "3385312",
+        "prdtCode": "941530",
+        "opTitle": "一年期长情陪伴",
+        "comment": "底层清晰，主投债券市场，《证券时报》2018年君鼎奖“中国优秀财富管理机构”团队出品。",
+        "isTyc": false,
+        "prdtName": "紫金1号140期",
+        "invPeriod": 357,
+        "subStart": 50000,
+        "riskLevel": "低风险",
+        "yieldDesc": "业绩比较基准",
+        "yieldValue": "4.45%"
+      },
+      {
+        "prdtId": "22208",
+        "prdtCode": "940037",
+        "opTitle": "申赎灵活的明星产品",
+        "comment": "资金灵活投入，涨乐紫金产品销量之冠。",
+        "isTyc": false,
+        "prdtName": "华泰紫金货币增强",
+        "invPeriod": null,
+        "subStart": 50000,
+        "riskLevel": "低风险",
+        "yieldDesc": "七日年化收益率",
+        "yieldValue": "3.81%"
+      }
+    ]
+  },
+  "school": [
+    {
+      "id": 23,
+      "title": "国外养老制度知多少",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=833868"
+    },
+    {
+      "id": 24,
+      "title": "关于养老你可能有三大错觉",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=833867"
+    },
+    {
+      "id": 14,
+      "title": "MSCI大盘点：海外投资者如何看A股入摩？",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=805028"
+    },
+    {
+      "id": 4,
+      "title": "小白上路，买基金从这一篇开始。",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=769885"
+    },
+    {
+      "id": 13,
+      "title": "前世今生，收益凭证",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=799092"
+    },
+    {
+      "id": 5,
+      "title": "指数基金定投与产品选择技巧",
+      "link": "http://action:10061?fullscreen=1&&type=9&&url=/zlcftajax/information/refined-info/display/main.htm?titleTag=3&repetId=773004"
+    }
+  ],
+  "banner": [
+    {
+      "title": "中日互通eft",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20190603/201906031559528715603.jpeg",
+      "link": "http://action:10061/?fullscreen=1&&topcolor=3987F6&&url=/zlcftajax/ttf/auto-activity/main.htm?pageId=1437"
+    },
+    {
+      "title": "闲钱理财好工具",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20190523/201905231558598837711.jpeg",
+      "link": "http://action:10061/?fullscreen=1&&topColor=FF8400&&url=%2Fzlcftajax%2Fttf%2Fraised_funds%2Fdetail-v2.htm%3FtopicId%3D45%26yieldLabel%3D8"
+    },
+    {
+      "title": "收获小确幸",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20190218/201902181550461410255.png",
+      "link": "http://action:10061/?fullscreen=1&&topColor=FF8400&&url=/zlcftajax/ttf/raised_funds/detail-v2.htm?topicId=43&yieldLabel=7"
+    },
+    {
+      "title": "华泰紫金智盈债券",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181207/201812071544177717945.png",
+      "link": "http://action:10061/?fullscreen=1&&topcolor=0C169C&&url=/zlcftajax/ttf/auto-activity/main.htm?pageId=724"
+    },
+    {
+      "title": "谁适合基金定投？",
+      "picUrl": "http://d.zhangle.com/pic/cft/picture/20181207/201812071544177792630.png",
+      "link": "http://action:10061/?fullscreen=1&&topColor=FF8400&&url=/zlcftajax/ttf/raised_funds/detail-v2.htm?topicId=42&yieldLabel=7"
+    }
+  ],
+  "digging": [
+    {
+      "tradingCode": "000905",
+      "name": "中证500",
+      "peLocation": "2",
+      "relaPrdtCount": 27,
+      "peCampareMidType": "2",
+      "product": [
+        {
+          "prdtId": 54850402,
+          "prdtCode": "SFW613",
+          "prdtName": "华泰晟益19113号（中证500）",
+          "riskLevel": "低风险",
+          "prdtType": "1"
+        },
+        {
+          "prdtId": 3052181,
+          "prdtCode": "002510",
+          "prdtName": "申万菱信中证500指数增强",
+          "riskLevel": "中风险",
+          "prdtType": "2"
+        }
+      ]
+    },
+    {
+      "tradingCode": "000016",
+      "name": "上证50",
+      "peLocation": "2",
+      "relaPrdtCount": 4,
+      "peCampareMidType": "2",
+      "product": [
+        {
+          "prdtId": 11707,
+          "prdtCode": "110003",
+          "prdtName": "易方达上证50指数A",
+          "riskLevel": "中风险",
+          "prdtType": "2"
+        },
+        {
+          "prdtId": 17812,
+          "prdtCode": "399001",
+          "prdtName": "中海上证50指数增强",
+          "riskLevel": "中风险",
+          "prdtType": "2"
+        }
+      ]
+    }
+  ],
+  "selectAip": {
+    "title": "定投选哪个，数据来说话",
+    "selectAipList": [
+      {
+        "prdtName": "景顺长城新兴成长混合",
+        "prdtId": 16612,
+        "prdtCode": "260108",
+        "yieldLevel": "近3年收益率",
+        "yieldValue": "27.637%",
+        "onceYieldValue": "25.37%",
+        "prdtRiskLevel": "中风险",
+        "prdtType": "混合基金",
+        "subStart": 1,
+        "reason": ""
+      },
+      {
+        "prdtName": "景顺长城鼎益混合(LOF)",
+        "prdtId": 15144,
+        "prdtCode": "162605",
+        "yieldLevel": "近3年收益率",
+        "yieldValue": "25.806%",
+        "onceYieldValue": "23.843%",
+        "prdtRiskLevel": "中风险",
+        "prdtType": "混合基金",
+        "subStart": 1,
+        "reason": ""
+      }
+    ]
+  },
+  "bigCard": [
+    {
+      "prdtId": "5166923",
+      "prdtCode": "005467",
+      "opTitle": "专注纯债，波动较低",
+      "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+      "type": "2",
+      "yieldLabel": 7,
+      "tagList": [
+        "债券基金",
+        "中低风险",
+        "1元起"
+      ],
+      "linkUrl": "http://action:10061/?fullscreen=1&&topcolor=0C169C&&url=/zlcftajax/ttf/auto-activity/main.htm?pageId=724",
+      "prdtName": "华泰紫金智盈债券A",
+      "subType": "2",
+      "yieldDesc": "成立以来涨跌",
+      "netValue": 1.106,
+      "netDate": "06-03",
+      "feeTag": "申购费1折起",
+      "yieldValue": "10.6%"
+    },
+    {
+      "prdtId": "37062186",
+      "prdtCode": "005827",
+      "opTitle": "追求长期稳健回报",
+      "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+      "type": "2",
+      "yieldLabel": 7,
+      "tagList": [
+        "混合基金",
+        "中风险",
+        "1元起"
+      ],
+      "linkUrl": null,
+      "prdtName": "易方达蓝筹精选混合",
+      "subType": "2",
+      "yieldDesc": "成立以来涨跌",
+      "netValue": 1.1987,
+      "netDate": "06-03",
+      "feeTag": "申购费1折起",
+      "yieldValue": "19.87%"
+    },
+    {
+      "prdtId": "54259081",
+      "prdtCode": "513003",
+      "opTitle": "挂钩日经225 指日可待",
+      "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+      "type": "4",
+      "subDeadline": "2019.06.05",
+      "linkUrl": "http://action:10090/?url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26type%3D9%26%26enforcecolor%3D1%26%26url%3D%2Ftrade%2Fmore%2Fcnjj%2Fcnjjrg.htm%3FstockCode%3D513003",
+      "prdtName": "易方达225ETF",
+      "subStart": 1000,
+      "tagList": [
+        "",
+        "中高风险",
+        "513003"
+      ]
+    },
+    {
+      "prdtId": "54622403",
+      "prdtCode": "513523",
+      "opTitle": "多元配置 日经投资",
+      "comment": "该产品为基金严选产品且风险等级较高，可进入详情页了解更多信息。",
+      "type": "4",
+      "subDeadline": "2019.06.05",
+      "linkUrl": "http://action:10090/?url=http%3A%2F%2Faction%3A10061%2F%3Ffullscreen%3D1%26%26type%3D9%26%26enforcecolor%3D1%26%26url%3D%2Ftrade%2Fother%2FETF%2Fbuy.htm%3FstockCode%3D513523",
+      "prdtName": "华夏野村日经225ETF",
+      "subStart": 1000,
+      "tagList": [
+        "",
+        "中高风险",
+        "513523"
+      ]
+    },
+    {
+      "prdtId": "54850402",
+      "prdtCode": "SFW613",
+      "opTitle": "看涨中证500指数",
+      "comment": "指定日标的收盘价格超过期初，可获上端收益。",
+      "type": "1",
+      "linkUrl": null,
+      "prdtName": "华泰晟益19113号（中证500）",
+      "yieldDesc": "年化收益率",
+      "yieldValue": "7.5%或(0.1%至7.5%)",
+      "invPeriod": 358,
+      "tagList": [
+        "本金保障",
+        "低风险",
+        "5万元起"
+      ]
+    },
+    {
+      "prdtId": "3385312",
+      "prdtCode": "941530",
+      "opTitle": "一年期长情陪伴",
+      "comment": "底层清晰，主投债券市场，《证券时报》2018年君鼎奖“中国优秀财富管理机构”团队出品。",
+      "type": "3",
+      "linkUrl": null,
+      "prdtName": "紫金1号140期",
+      "tagList": [
+        "集合资管计划",
+        "低风险",
+        "5万元起"
+      ],
+      "subType": "3",
+      "yieldDesc": "业绩比较基准",
+      "invPeriod": 357,
+      "yieldValue": "4.45%"
+    }
+  ],
+  "moduleOrder": "13,1,2,3,4,6,10,7,8,12,9,14"
+};
